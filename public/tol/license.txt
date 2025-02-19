@@ -1,0 +1,11 @@
+Model Information:
+* title:	Tol
+* source:	https://sketchfab.com/3d-models/tol-fd7c646f80da45c786ad6e42a2a66412
+* author:	luyssport (https://sketchfab.com/luyssport)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Tol" (https://sketchfab.com/3d-models/tol-fd7c646f80da45c786ad6e42a2a66412) by luyssport (https://sketchfab.com/luyssport) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

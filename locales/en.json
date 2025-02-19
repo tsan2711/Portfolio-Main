@@ -1,0 +1,149 @@
+{
+  "navbar": {
+    "home": "HOME",
+    "about": "ABOUT",
+    "experience": "EXPERIENCE",
+    "projects": "PROJECT",
+    "contact": "CONTACT"
+  },
+  "services": {
+    "game_dev": "Game Developer",
+    "game_design": "Game Designer",
+    "web_dev": "Web Developer",
+    "mobile_dev": "Mobile Developer"
+  },
+  "experiences": {
+    "ta_title": "Teaching Assistant",
+    "ta_date": "August 2022 - April 2023",
+    "ta_point1": "Supported students in programming concepts.",
+    "ta_point2": "Encouraged creativity through game projects.",
+    "lecturer_title": "Lecturer",
+    "lecturer_date": "April 2023 - Present",
+    "lecturer_point1": "Teaching Scratch, Game Maker Studio, and Python.",
+    "lecturer_point2": "Using project-based learning methodologies.",
+    "lecturer_point3": "Guiding students in game development lifecycle."
+  },
+  "hero2d": {
+    "title": "Developing video games?",
+    "hello": "Hello,",
+    "name": "I'm Minh!",
+    "description": "A game developer with a passion for creating unique and innovative experiences 3D and 2D with Unity. I love telling stories through games, building AI NPCs, and optimizing player experiences. Explore my portfolio to enter the world of great games together!",
+    "contact": "Contact Me",
+    "resume": "Download Resume"
+  },
+  "about": {
+    "introduction": "Introduction",
+    "overview": "Overview",
+    "description": "I'm a game developer with experience in Unity and Gamemaker Studio. I'm a passionate and creative game developer, always excited to explore new aspects of the gaming world. Driven by a deep love for games, I aspire to create unique experiences and contribute to enriching the gaming industry. I eagerly seek opportunities to meet and collaborate with like-minded team members who share my passion, to create impressive work together in the growing games industry. Let's work together to bring your ideas to life!"
+  },
+  "experience": {
+    "title": "WHAT I HAVE DONE SO FAR",
+    "subtitle": "Work Experience"
+  },
+  "project": {
+    "title": "Projects",
+    "view": "See Detail"
+  },
+  "contact": {
+    "title": "Get in touch",
+    "name": "What's your name?",
+    "email": "What's your email?",
+    "message": "What you want to say?",
+    "send": "Send",
+    "sending": "Sending...",
+    "success": "Your message has been sent successfully!",
+    "failure": "Oops! Something went wrong. Please try again.",
+    "success_title": "Success!",
+    "failure_title": "Error!",
+    "contact_info": "My Contact Information",
+    "address": "Address",
+    "phone": "Phone",
+    "address_detail": "Binh Chanh District, Ho Chi Minh City",
+    "error": {
+      "name": "Please enter your name.",
+      "email": "Please enter a valid email.",
+      "message": "Please enter your message."
+    }
+  },
+  "footer": {
+    "name": "Minh Mai",
+    "home": "Home",
+    "about": "About",
+    "experience": "Experience",
+    "projects": "Project",
+    "contact": "Contact",
+    "privacy": "Minh Mai. All rights reserved."
+  },
+  "projects": {
+    "RPG 3D Multiplayer Game": {
+      "participants": "Unity | Duration: 4 months | Team Size: 2",
+      "shortDescription": "A feature-rich RPG game with an immersive open-world experience, multiplayer support, and a dynamic trading system.",
+      "description": "\"RPG 3D Multiplayer\" is an open-world role-playing game where players can explore vast landscapes, complete quests, engage in combat, and interact with other players in real-time. The game features a detailed inventory system, a dynamic market for trading items, and challenging AI-controlled enemies. Players can also join dungeons, battle powerful bosses, and upgrade their skills for a more immersive gameplay experience. Built with Unity and utilizing Netcode for GameObjects (NGO), Firebase, and AI-driven behaviors, this game delivers a smooth and engaging multiplayer experience.",
+      "technologies": [
+        "Unity 6",
+        "C#",
+        "Blender",
+        "Firebase",
+        "Netcode for GameObjects (NGO)"
+      ],
+      "features": [
+        "Seamless open-world exploration with interactive NPCs",
+        "Real-time multiplayer system with smooth player synchronization",
+        "Comprehensive inventory and equipment system",
+        "Challenging AI enemies using FSM for realistic behavior",
+        "Optimized performance with LOD, Object Pooling, and Async Scene Loading",
+        "Firebase integration for real-time data synchronization and authentication",
+        "Network Culling for efficient multiplayer interactions",
+        "In-game chat and interaction system"
+      ]
+    },
+    "3D Survivor Game": {
+      "participants": "Unity | Duration: 3 months | Team: 1 person",
+      "shortDescription": "An open-world urvival game with dynamic experiences, crafting system, and resource management.",
+      "description": "\"3D Survivor\" is an immersive open-world survival game where players must gather resources, craft tools, and build shelters to survive in a hostile environment. The game features a dynamic weather system, day/night cycle, and challenging AI enemies. Players can team up or compete with others in real-time, engage in PvP combat, and explore vast procedurally generated landscapes filled with secrets and dangers. Core mechanics include hunger, thirst, and temperature management systems that create authentic survival challenges. Built with Unity and utilizing Netcode for GameObjects (NGO), Firebase, and intelligent AI, the game delivers a smooth and engaging multiplayer survival experience with robust crafting and base-building features.",
+      "technologies": [
+        "Unity 6",
+        "C#"
+      ],
+      "features": [
+        "Procedurally generated open world with dynamic environments",
+        "Comprehensive crafting and building system",
+        "Challenging AI enemies with FSM for realistic behavior",
+        "Dynamic weather system and day/night cycle",
+        "Survival mechanics including hunger, thirst and temperature management"
+      ]
+    },
+    "2D Multiplayer Game": {
+      "participants": "Unity | Duration: 1 month | Team: 1 person",
+      "shortDescription": "A role-playing game featuring multiplayer support and an enjoyable shooting system.",
+      "description": "\"2D Multiplayer\" is a role-playing game where players can explore space, form teams, engage in combat, and interact with other players in real-time. The game features a detailed item system and a dynamic trading market. Players can participate in battles with other players for the most authentic gaming experience. Built with Unity and utilizing Netcode for GameObjects (NGO), Firebase, and intelligent AI, the game delivers a smooth and engaging multiplayer experience.",
+      "technologies": [
+        "Unity",
+        "C#",
+        "Netcode for GameObjects (NGO)"
+      ],
+      "features": [
+        "Space exploration with colorful diverse characters",
+        "Real-time multiplayer system with smooth synchronization",
+        "Rich item and equipment system"
+      ]
+    },
+    "VFX": {
+      "participants": "Unity | Duration: -- month | Team: 1 person",
+      "shortDescription": "",
+      "description": "\"VFX\"",
+      "technologies": [
+        "Unity",
+        "Particle System",
+        "VFX Graph",
+        "VFX Shader Graph"
+      ],
+      "features": [
+      ]
+    }
+  },
+  "project-detail": {
+    "back-to-home": "Back to Home",
+    "view-source": "View Source Code"
+  }
+}

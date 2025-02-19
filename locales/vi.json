@@ -1,0 +1,150 @@
+{
+  "navbar": {
+    "home": "TRANG CHỦ",
+    "about": "GIỚI THIỆU",
+    "experience": "KINH NGHIỆM",
+    "projects": "DỰ ÁN",
+    "contact": "LIÊN HỆ"
+  },
+  "services": {
+    "game_dev": "Lập trình viên Game",
+    "game_design": "Thiết kế Game",
+    "web_dev": "Lập trình viên Web",
+    "mobile_dev": "Lập trình viên Mobile"
+  },
+  "experiences": {
+    "ta_title": "Trợ giảng",
+    "ta_date": "Tháng 8/2022 - Tháng 4/2023",
+    "ta_point1": "Hỗ trợ sinh viên về các khái niệm lập trình.",
+    "ta_point2": "Khuyến khích sáng tạo thông qua dự án game.",
+    "lecturer_title": "Giảng viên",
+    "lecturer_date": "Tháng 4/2023 - Hiện tại",
+    "lecturer_point1": "Giảng dạy Scratch, Game Maker Studio và Python.",
+    "lecturer_point2": "Áp dụng phương pháp học dựa trên dự án.",
+    "lecturer_point3": "Hướng dẫn sinh viên phát triển game từ ý tưởng đến sản phẩm hoàn chỉnh."
+  },
+  "hero2d": {
+    "title": "Phát triển trò chơi điện tử?",
+    "hello": "Xin chào,",
+    "name": "Tôi là Minh!",
+    "description": "Một nhà phát triển trò chơi với niềm đam mê tạo ra những trải nghiệm độc đáo và sáng tạo 3D và 2D với Unity. Tôi thích kể chuyện thông qua trò chơi, xây dựng NPC AI và tối ưu hóa trải nghiệm của người chơi. Khám phá danh mục đầu tư của tôi để cùng nhau bước vào thế giới trò chơi tuyệt vời!",
+    "contact": "Liên hệ",
+    "resume": "Tải hồ sơ"
+  },
+  "about": {
+    "introduction": "Giới thiệu",
+    "overview": "Tổng quan",
+    "description": "Tôi là một nhà phát triển trò chơi có kinh nghiệm trong Unity và Gamemaker Studio. Tôi là một nhà phát triển trò chơi đầy nhiệt huyết và sáng tạo, luôn háo hức khám phá những khía cạnh mới của thế giới trò chơi. Được thúc đẩy bởi tình yêu sâu sắc dành cho trò chơi, tôi mong muốn tạo ra những trải nghiệm độc đáo và góp phần làm phong phú thêm ngành công nghiệp trò chơi. Tôi háo hức tìm kiếm cơ hội để gặp gỡ và hợp tác với các thành viên trong nhóm có cùng chí hướng, những người chia sẻ niềm đam mê của tôi, để cùng nhau tạo ra những tác phẩm ấn tượng trong ngành công nghiệp trò chơi đang phát triển. Hãy cùng nhau làm việc để biến ý tưởng của bạn thành hiện thực!"
+  },
+  "experience": {
+    "title": "NHỮNG CÔNG VIỆC TÔI ĐÃ LÀM CHO ĐẾN HIỆN TẠI",
+    "subtitle": "Kinh nghiệm làm việc"
+  },
+  "project": {
+    "title": "Dự án",
+    "view": "Xem thêm"
+  },
+  "contact": {
+    "title": "Liên hệ",
+    "subtitle": "Hãy liên hệ với tôi để bắt đầu dự án của bạn!",
+    "name": "Tên của bạn",
+    "email": "Email của bạn",
+    "message": "Bạn muốn nhắn nhủ điều gì?",
+    "send": "Gửi",
+    "sending": "Đang gửi...",
+    "success": "Tin nhắn của bạn đã được gửi thành công!",
+    "failure": "Ôi! Đã có lỗi xảy ra. Vui lòng thử lại.",
+    "success_title": "Thành công!",
+    "failure_title": "Lỗi!",
+    "contact_info": "Thông tin liên hệ",
+    "address": "Địa chỉ",
+    "phone": "Điện thoại",
+    "address_detail": "Quận Gò Vấp, TP.Hồ Chí Minh",
+    "error": {
+      "name": "Vui lòng nhập tên của bạn.",
+      "email": "Vui lòng nhập email hợp lệ.",
+      "message": "Vui lòng nhập tin nhắn của bạn."
+    }
+  },
+  "footer": {
+    "name": "Mai Gia Minh",
+    "home": "Trang chủ",
+    "about": "Giới thiệu",
+    "experience": "Kinh nghiệm",
+    "projects": "Dự án",
+    "contact": "Liên hệ",
+    "privacy": "Mai Gia Minh. Đã đăng ký bản quyền hehe."
+  },
+  "projects": {
+    "RPG 3D Multiplayer Game": {
+      "participants": "Unity | Thời gian: 4 tháng | Đội ngũ: 2 người",
+      "shortDescription": "Một trò chơi nhập vai thế giới mở với trải nghiệm sống động, hỗ trợ nhiều người chơi và hệ thống giao dịch linh hoạt.",
+      "description": "\"RPG 3D Multiplayer\" là một trò chơi nhập vai thế giới mở, nơi người chơi có thể khám phá các vùng đất rộng lớn, hoàn thành nhiệm vụ, tham gia chiến đấu và tương tác với những người chơi khác theo thời gian thực. Trò chơi có hệ thống vật phẩm chi tiết, thị trường giao dịch động và kẻ địch AI thử thách. Người chơi có thể tham gia vào các ngục tối, chiến đấu với những con trùm mạnh mẽ và nâng cấp kỹ năng để có trải nghiệm chơi game chân thực nhất. Được xây dựng bằng Unity và sử dụng Netcode for GameObjects (NGO), Firebase cùng AI thông minh, trò chơi mang lại trải nghiệm nhiều người chơi mượt mà và hấp dẫn.",
+      "technologies": [
+        "Unity 6",
+        "C#",
+        "Blender",
+        "Firebase",
+        "Netcode for GameObjects (NGO)"
+      ],
+      "features": [
+        "Khám phá thế giới mở không giới hạn với NPC tương tác",
+        "Hệ thống nhiều người chơi thời gian thực với đồng bộ mượt mà",
+        "Hệ thống vật phẩm và trang bị phong phú",
+        "AI kẻ địch thử thách với FSM mang lại hành vi chân thực",
+        "Tối ưu hóa hiệu suất với LOD, Object Pooling và Async Scene Loading",
+        "Tích hợp Firebase để đồng bộ dữ liệu thời gian thực và xác thực người dùng",
+        "Network Culling giúp cải thiện hiệu suất tương tác nhiều người chơi",
+        "Hệ thống trò chuyện và tương tác trong trò chơi"
+      ]
+    },
+    "3D Survivor Game": {
+      "participants": "Unity | Thời gian: 3 tháng | Đội ngũ: 1 người",
+      "shortDescription": "Một trò chơi sinh tồn thế giới mở với trải nghiệm sống động, hệ thống chế tạo và quản lý tài nguyên.",
+      "description": "\"3D Survivor\" là một trò chơi sinh tồn thế giới mở, nơi người chơi phải thu thập tài nguyên, chế tạo công cụ và xây dựng nơi trú ẩn để tồn tại trong môi trường khắc nghiệt. Trò chơi có hệ thống thời tiết động, chu kỳ ngày đêm và AI kẻ địch đầy thử thách. Người chơi có thể hợp tác hoặc đối đầu với nhau trong thời gian thực, tham gia chiến đấu PvP và khám phá các vùng đất rộng lớn được tạo ra một cách ngẫu nhiên, chứa đầy bí mật và nguy hiểm. Cơ chế cốt lõi bao gồm hệ thống quản lý đói, khát và nhiệt độ tạo nên những thử thách sinh tồn chân thực. Được xây dựng bằng Unity và sử dụng công nghệ AI thông minh, trò chơi mang lại trải nghiệm sinh tồn nhiều người chơi mượt mà và hấp dẫn với tính năng chế tạo và xây dựng căn cứ mạnh mẽ.",
+      "technologies": [
+        "Unity 6",
+        "C#"
+      ],
+      "features": [
+        "Thế giới mở được tạo ngẫu nhiên với môi trường năng động",
+        "Hệ thống chế tạo và xây dựng toàn diện",
+        "AI kẻ địch thử thách với FSM mang lại hành vi chân thực",
+        "Hệ thống thời tiết động và chu kỳ ngày đêm",
+        "Cơ chế sinh tồn bao gồm quản lý đói, khát và nhiệt độ"
+      ]
+    },
+    "2D Multiplayer Game": {
+      "participants": "Unity | Thời gian: 1 tháng | Đội ngũ: 1 người",
+      "shortDescription": "Một trò chơi nhập vai có hỗ trợ nhiều người chơi và hệ thống bắn súng thú vị.",
+      "description": "\"2D Multiplayer\" là một trò chơi nhập vai, nơi người chơi có thể khám phá không gian, tạo đội nhóm, tham gia chiến đấu và tương tác với những người chơi khác theo thời gian thực. Trò chơi có hệ thống vật phẩm chi tiết và thị trường giao dịch năng động. Người chơi có thể tham gia vào các trận chiến với những người chơi khác để có trải nghiệm chơi game chân thực nhất. Được xây dựng bằng Unity và sử dụng Netcode for GameObjects (NGO), Firebase cùng AI thông minh, trò chơi mang lại trải nghiệm nhiều người chơi mượt mà và hấp dẫn.",
+      "technologies": [
+        "Unity",
+        "C#",
+        "Netcode for GameObjects (NGO)"
+      ],
+      "features": [
+        "Khám phá không gian với các nhân vật đa dạng màu sắc",
+        "Hệ thống nhiều người chơi thời gian thực với đồng bộ mượt mà",
+        "Hệ thống vật phẩm và trang bị phong phú"
+      ]
+    },
+    "VFX": {
+      "participants": "Unity | Thời gian: -- tháng | Đội ngũ: 1 người",
+      "shortDescription": "",
+      "description": "\"VFX\"",
+      "technologies": [
+        "Unity",
+        "Particle System",
+        "VFX Graph",
+        "VFX Shader Graph"
+      ],
+      "features": [
+      ]
+    }
+  },
+  "project-detail": {
+    "back-to-home": "Quay lại trang chủ",
+    "view-source": "Xem mã nguồn"
+  }
+}
